@@ -6,5 +6,5 @@ The model achieved an accuracy of 95% on the test dataset .
 
 Future Improvements / Work in Progress : 
 
-1. Deploying the model on a cloud platform(Heroku)
+1. Deploying the model on a cloud platform(Eg : Heroku , Docker)
 2. Training on an even larger dataset 
