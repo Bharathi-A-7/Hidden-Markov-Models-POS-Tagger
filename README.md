@@ -2,7 +2,7 @@
 
 A Parts of Speech Tagger deployed on heroku . 
 
-Access the app [here](https://pos-tagger-app.herokuapp.com/)
+Access the app [Here](https://pos-tagger-app.herokuapp.com/)
 
 A Parts of Speech Tagger trained on Wall Street Journal 's vocabulary using a Hidden Markov Model . Predictions are made possible by passing the Transition and Emission probabilities of the Hidden Markov Model to the Viterbi Algorithm that makes forward and backward propagation on the test corpus to generate the best sequence of POS tags for a given sentence . 
 
